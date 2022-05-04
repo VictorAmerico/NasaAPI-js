@@ -1,7 +1,7 @@
 # Nasa API-js
 Linkamos a api da nasa com nosso codigo
 
-# INICIO
+# Primeiros Passos
 
 ## HTML (1/2)
 ~~~~html
